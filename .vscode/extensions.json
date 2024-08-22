@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "davidanson.vscode-markdownlint",
+    "bpruitt-goddard.mermaid-markdown-syntax-highlighting",
+    "bierner.markdown-mermaid",
+    "asciidoctor.asciidoctor-vscode",
+    "jebbs.plantuml",
+    "vstirbu.vscode-mermaid-preview",
+    "mechatroner.rainbow-csv"
+  ]
+}
